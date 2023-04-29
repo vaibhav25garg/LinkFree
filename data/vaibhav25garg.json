@@ -1,0 +1,27 @@
+{
+  "name": "Vaibhav Garg",
+  "type": "personal",
+  "bio": "2nd year CS student | Passionate about coding, solving problems, and learning new technologies | Constantly exploring and contributing to open source projects."
+   "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/Vaibhav20410777",
+      "icon": "FaTwitter"
+    }
+   {
+      "name": "Follow me on Instagram",
+      "url": "https://www.instagram.com/garg_vaibhav25/",
+      "icon": "FaInstagram"
+    }
+   {
+      "name": "facebook",
+      "url": "https://m.facebook.com/vaibhav.garg.4577",
+      "icon": "FaFacebook"
+    }
+   {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/vaibhav-garg-4b2684219/",
+      "icon": "FaLinkedin"
+   }
+  ]
+}
